@@ -1,3 +1,5 @@
 library(here)
 
-txt_replace('custom.txt', 'boiler.txt', 'new_boiler.txt')
+source(here('R', 'funcs.R'))
+
+txt_replace(here('custom.txt'), here('boiler.txt'), here('new_boiler.txt'))
