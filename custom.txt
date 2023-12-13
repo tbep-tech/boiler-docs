@@ -1,7 +1,0 @@
-# Custom 1
-
-Here's my custom text for the custom 1 header.
-
-# Custom 2
-
-Here's my custom text for the custom 2 header.
