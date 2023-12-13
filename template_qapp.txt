@@ -1,0 +1,168 @@
+~~~~~ A1. Title and Approval Page ~~~~~
+
+# Title
+
+[Insert text]
+
+~~~~~ A5. Problem Definition/Background ~~~~~
+
+[Insert text]
+
+~~~~~ A6. Project Task/Description ~~~~~
+
+# Project Overview
+
+The Tampa Bay Estuary Program (TBEP) will conduct a study investigating [Insert text]
+
+# Project Timeline - Relative
+
+The study is anticipated to run [Insert text]
+
+# Expected Results/Novelty
+
+The Tampa Bay Estuary Program (TBEP) will conduct a study investigating [Insert text]
+
+# Outputs - Overview
+
+Results of the study will be submitted for publication as a peer-reviewed journal after completion. All final products and anonymized data will be stored in a public repository on the TBEP GitHub group page (https://github.com/tbep-tech) and made available on additional public archive services (e.g., https://knb.ecoinformatics.org) as needed. In addtion to peer-reviewed articles, TBEP may publish data and/or results from this study in other forms of media, such as technical reports and interactive data visualizations.
+
+# Task 1
+
+The first research task will consist of [Insert text]
+
+# Task 2
+
+[Insert text]
+
+# Task 3
+
+[Insert text]
+
+# Task 4
+
+[Insert text]
+
+# Task 5
+
+[Insert text]
+
+# Task 6
+
+[Insert text]
+
+# Outputs - Overview
+
+Results of the study will be submitted for publication as a peer-reviewed journal after completion. All final products and anonymized data will be stored in a public repository on the TBEP GitHub group page (https://github.com/tbep-tech) and made available on additional public archive services (e.g., https://knb.ecoinformatics.org) as needed. In addtion to peer-reviewed articles, TBEP may publish data and/or results from this study in other forms of media, such as technical reports and interactive data visualizations.
+
+# Timeline/Tasks - Dates
+
+
+~~~~~ A7. Quality Objectives and Criteria ~~~~~
+
+# Pilot testing
+
+The [surveys] will undergo internal pilot testing prior to public distribution by TBEP staff to identify potential issues regarding clarity, structure, sensitivity, and burden.
+
+# Consent - QAPP
+
+Consent must be expressly and voluntarily given before participating in the [survey]. A “Participant Information and Consent Sheet” will be presented to potential participants outlining the objectives of the study, requirements for completing the [survey], disclosure of any expected benefits or risks from participating, and contact information. See Section A9 for quality assurance procedures regarding collection, use, and storage of potentially identifiable information.
+
+# Compliance - Crowdsourcing
+
+This research adheres to the Environmental Protection Agency’s Generic Clearance for Citizen Science and Crowdsourcing Projects (ICR #2521.17) (EPA 2023), and complies with the American Association for Public Opinion Research’s Code of Professional Ethics and Practices (AAPOR 2020), the TBEP Quality Management Plan (Sherwood et al. 2020), and the TBEP Data Management SOP (Beck et al. 2021).
+
+# Compliance - Not Crowdsourcing
+
+This research complies with the American Association for Public Opinion Research’s Code of Professional Ethics and Practices (AAPOR 2020), the TBEP Quality Management Plan (Sherwood et al. 2020), and the TBEP Data Management SOP (Beck et al. 2021).
+
+
+~~~~~ A8. Special Training/Certifications ~~~~~
+
+# Qualifications
+
+Dr. Simmons will be responsible for designing and distributing (or arranging distribution via third party) [surveys], and has over five years of experience designing questionnaires and collecting and analyzing social data.
+
+
+~~~~~ A9. Documentation and Records ~~~~~
+
+[Insert text]
+
+~~~~~ B1. Sampling Process Design (Experimental Design) ~~~~~
+
+[Insert text]
+
+~~~~~ B2. Sampling Methods ~~~~~
+
+[Insert text]
+
+~~~~~ B3. Sample Handling and Custody ~~~~~
+
+[Insert text]
+
+~~~~~ B4. Analytical Methods ~~~~~
+
+[Insert text]
+
+~~~~~ B5. Quality Control ~~~~~
+
+[Insert text]
+
+~~~~~ B6. Instrument/Equipment Testing, Inspection, and Maintenance ~~~~~
+
+[Insert text]
+
+~~~~~ B7. Instrument/Equipment Calibration and Frequency ~~~~~
+
+[Insert text]
+
+~~~~~ B8. Inspection/Acceptance for Supplies and Consumables ~~~~~
+
+[Insert text]
+
+~~~~~ B9. Non-direct Measurements ~~~~~
+
+[Insert text]
+
+~~~~~ B10. Data Management ~~~~~
+
+[Insert text]
+
+~~~~~ C1. Assessments and Response Actions ~~~~~
+
+[Insert text]
+
+~~~~~ C2. Reports to Management ~~~~~
+
+[Insert text]
+
+~~~~~ D1. Data Review, Verification, and Validation ~~~~~
+
+[Insert text]
+
+~~~~~ D2. Verification and Validation Methods ~~~~~
+
+[Insert text]
+
+~~~~~ D3. Reconciliation with User Requirements ~~~~~
+
+[Insert text]
+
+~~~~~ E. References ~~~~~
+
+[Insert text]
+
+
+
+
+
+# Boiler 1
+
+Elit tempus sem parturient accumsan; ad convallis natoque, pulvinar, dictumst malesuada convallis metus varius! Porttitor dapibus fringilla purus, mus nibh orci habitasse? Magnis hendrerit nibh sed aliquam molestie. Facilisis eget habitant pellentesque vestibulum, vehicula morbi auctor sagittis interdum ad. Sed natoque cras congue purus dignissim euismod. Ligula erat lobortis tellus pellentesque; orci eget fermentum aliquam cras ligula sociis diam aenean.
+
+# Custom 1
+
+# Boiler 2
+
+Sit consequat aenean ornare justo integer sagittis platea litora felis. Ornare sociosqu velit lectus nulla nec nam mollis nulla erat malesuada libero! Nec sed justo blandit nam quisque eget praesent metus euismod. Enim donec vitae habitasse lacus libero, proin; integer dictumst ridiculus odio. Venenatis aptent magna praesent litora diam, augue erat netus at, eros non hac? Ante ligula penatibus, laoreet ullamcorper – nam leo conubia: diam aliquet molestie accumsan est sagittis! Na sagittis!
+
+# Custom 2
