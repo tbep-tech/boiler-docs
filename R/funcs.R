@@ -1,6 +1,6 @@
 # add text under custom headers in boiler with text under custom headers in custom
 # save file as new_boiler
-txt_replace <- function(custom, boiler, new_boiler){
+txt_replace <- function(custom, boiler, new_boiler, replace = NULL){
   
   ##
   # custom as list
@@ -41,6 +41,10 @@ txt_replace <- function(custom, boiler, new_boiler){
   
   # collapse to string
   boilerout <- paste(names(boilerls), boilerls, sep = '', collapse = "\n")
+  
+  # replace text if replace not null
+  if(!is.null(replace))
+    boilerout <- gsub('<<replace>>', replace, boilerout)
   
   writeLines(boilerout, new_boiler)
   
