@@ -1,0 +1,141 @@
+~~~~~ A.1. Circumstances Making the Collection of Information Necessary ~~~~~
+
+Tampa Bay was designated an “estuary of national significance” by Congress in 1990, laying the foundation for the creation of the Tampa Bay Estuary Program (TBEP) in 1991. As an independent special district of the state of Florida, TBEP is an intergovernmental partnership of Hillsborough, Manatee, Pasco, and Pinellas counties; the cities of Tampa, St. Petersburg, and Clearwater; the U.S. Environmental Protection Agency; the Southwest Florida Water Management District; and the Florida Department of Environmental Protection. TBEP is governed by a Policy Board of elected officials and a Management Board of regional administrators. An interlocal agreement defines the governance structure and funding commitments made by the Management and Policy Board membership. The interlocal agreement is updated every 5-years and describes mutual binding promises to implement actions identified in the Comprehensive Conservation and Management Plan (CCMP) for Tampa Bay. The mission of the TBEP is to build partnerships to restore and protect the Tampa Bay estuary through implementation of a scientifically sound, community-based management plan, with a vision of TBEP becoming a national leader in applying robust, reproducible science and compelling storytelling to drive community decisions and individual behaviors for the benefit of cleaner waters, thriving habitats and abundant wildlife—all of which sustain our economy and way of life in the Tampa Bay region. The TBEP and its partners have committed to equitably informing and engaging the broader community on issues related to protecting, restoring, and managing the bay.
+
+# Project Need
+
+
+~~~~~ A.2. How, by Whom, and for What Purpose the Data will be Used ~~~~~
+
+# Expected Results/Novelty
+
+# Outputs
+
+Results of the study will be submitted for publication as a peer-reviewed journal after completion. All final products and anonymized data will be stored in a public repository on the TBEP GitHub group page (https://github.com/tbep-tech) and made available on additional public archive services (e.g., https://knb.ecoinformatics.org) as needed. In addtion to peer-reviewed articles, TBEP may publish data and/or results from this study in other forms of media, such as technical reports and interactive data visualizations.
+
+
+~~~~~ A.3. Use of Technology ~~~~~
+
+# Technology
+
+
+~~~~~ A.4. Efforts to Identify Duplication ~~~~~
+
+# Problem Definition
+
+# Background/Knowledge Gaps
+
+
+~~~~~ A.5. Burden on Small Businesses or Other Small Entities ~~~~~
+
+No burden is expected on small businesses or other small entities. 
+
+
+~~~~~ A.6. Consequences of Not Collecting Information ~~~~~
+
+# Consequences of Not Collecting Information
+
+
+~~~~~ A.7. Special Circumstances of Information Collection ~~~~~
+
+No special circumstances are involved in the collection of information.
+
+
+~~~~~ A.8. Consultations ~~~~~
+
+# Consultations
+
+
+~~~~~ A.9. Payments or Gifts to Respondents ~~~~~
+
+# Compensation
+
+
+~~~~~ A.10. Assurance of Confidentiality ~~~~~
+
+# Recordkeeping
+
+# Identifiable Information
+
+
+~~~~~ A.11. Sensitive Questions ~~~~~
+
+No questions of a sensitive nature are being asked of respondents.
+
+
+~~~~~ A.12. Estimation of Respondent Reporting Burden ~~~~~
+
+# Burden
+
+
+~~~~~ A.13. Cost to Respondents ~~~~~
+
+There are no direct costs to respondents.
+
+
+~~~~~ A.14. Estimates of Cost to the Federal Government ~~~~~
+
+# Costs
+
+
+~~~~~ A.15. Reasons for Program Changes or Adjustments ~~~~~
+
+This is the first ICR package submitted for this project. No changes have been made to the burden worksheet.
+
+
+~~~~~ A.16. Schedule for Data Collection and Publications ~~~~~
+
+# Project Timeline - Relative
+
+# Outputs
+
+
+~~~~~ A.17. Approval for Not Displaying OMB Approval Expiration Date ~~~~~
+
+No approval is requested.
+
+
+~~~~~ A.18. Exceptions to Certification Statement ~~~~~
+
+No exception is requested.
+
+
+~~~~~ B.1. Potential Respondent Universe and Sample Design ~~~~~
+
+# Experimental Design
+
+
+# Sampling Methods
+
+
+~~~~~ B.2. Procedures for Collection of Information ~~~~~
+
+# Project Overview
+
+# Task 1
+
+# Task 2
+
+# Task 3
+
+# Task 4
+
+# Task 5
+
+# Task 6
+
+
+
+~~~~~ B.3. Data Reliability and Quality Control Methods ~~~~~
+
+
+~~~~~ B.4. Pilot Testing and Data Uses ~~~~~
+
+
+~~~~~ B.5. Consultants on Survey Design ~~~~~
+
+All surveys and statistical analyses have been designed and will be carried out by:
+
+Dr. Blake Simmons, Environmental Social Scientist, Tampa Bay Estuary Program, (727) 893-2765, bsimmons@tbep.org
+
+

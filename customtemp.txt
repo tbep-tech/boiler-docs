@@ -1,0 +1,186 @@
+# Title
+
+[Insert text]
+
+
+# Problem Definition
+
+[Insert text]
+
+
+# Background/Knowledge Gaps
+
+[Insert text]
+
+
+# Project Overview
+
+The Tampa Bay Estuary Program (TBEP) will conduct a study investigating [Insert text]
+
+
+# Project Timeline - Relative
+
+The study is anticipated to run [Insert text]
+
+
+# Expected Results/Novelty
+
+The Tampa Bay Estuary Program (TBEP) will conduct a study investigating [Insert text]
+
+
+# Outputs
+
+Results of the study will be submitted for publication as a peer-reviewed journal after completion. All final products and anonymized data will be stored in a public repository on the TBEP GitHub group page (https://github.com/tbep-tech) and made available on additional public archive services (e.g., https://knb.ecoinformatics.org) as needed. In addtion to peer-reviewed articles, TBEP may publish data and/or results from this study in other forms of media, such as technical reports and interactive data visualizations.
+
+These results and any associated publications will be presented or distributed to interested TBEP partners, such as the City of St. Petersburg, City of Tampa, Hillsborough County, Pinellas County, and Tampa Bay Regional Planning Council, as well as businesses, contractors, and non-profit organizations directly involved in living shoreline implementations, such as the Ecosphere Restoration Institute. In addition to informing regional partners about homeowners’ perceptions of living shorelines and providing novel insights for researchers in other coastal states, the results of this study will inform the development of a new social marketing campaign delivered by the TBEP to promote the adoption of living shorelines on private properties across Tampa Bay (Phase II).
+
+
+# Task 1
+
+The first research task will consist of [Insert text]
+
+
+# Task 2
+
+[Insert text]
+
+
+# Task 3
+
+[Insert text]
+
+
+# Task 4
+
+[Insert text]
+
+
+# Task 5
+
+[Insert text]
+
+
+# Task 6
+
+[Insert text]
+
+
+# Timeline/Tasks - Dates
+
+[Insert text]
+
+
+# Pilot testing
+
+The [surveys] will undergo internal pilot testing prior to public distribution by TBEP staff to identify potential issues regarding clarity, structure, sensitivity, and burden.
+
+
+# Consent - QAPP
+
+Consent must be expressly and voluntarily given before participating in the [survey]. A “Participant Information and Consent Sheet” will be presented to potential participants outlining the objectives of the study, requirements for completing the [survey], disclosure of any expected benefits or risks from participating, and contact information. See Section A9 for quality assurance procedures regarding collection, use, and storage of potentially identifiable information.
+
+
+# Compliance
+
+This research adheres to the Environmental Protection Agency’s Generic Clearance for Citizen Science and Crowdsourcing Projects (ICR #2521.17) (EPA 2023), and complies with the American Association for Public Opinion Research’s Code of Professional Ethics and Practices (AAPOR 2020), the TBEP Quality Management Plan (Sherwood et al. 2020), and the TBEP Data Management SOP (Beck et al. 2021).
+
+
+# Qualifications
+
+Dr. Simmons will be responsible for designing and distributing (or arranging distribution via third party) [surveys], and has over five years of experience designing questionnaires and collecting and analyzing social data.
+
+
+# Recordkeeping
+
+Dr. Simmons will collate [survey] data. Paper copies of completed [surveys] will be securely stored at the TBEP office, with data manually entered into spreadsheets within 48 hours of collection. Online [survey] data will be exported from Qualtrics into spreadsheets to be appropriately coded prior to electronic storage, with accompanying metadata. Questionnaire data entered into spreadsheets will follow tidy data principles as defined in the TBEP data management SOP (Beck et al. 2021).
+
+# Identifiable Information
+
+Identifiable information in the form of email addresses of respondents will be used to match respondents’ responses to past/future responses. Dr. Simmons will be the only party with access to this identifiable information. Paper [surveys] with identifiable information will be secured in a locked filing cabinet in B. Simmons’ office. Online [surveys] with identifiable information will be stored in Qualtrics until exported into excel on a password-protected computer. After the study is complete and identifiable information is no longer required for matching response data, all identifiable information will be given a unique ID code for each respondent before being permanently redacted (for paper [surveys]) or deleted (for online [surveys]). Potentially identifiable information, such as IP addresses for online [surveys], may be used during quality assurance checks to identify any invalid responses from repeat participants (e.g., those taking the same [survey] multiple times). 
+
+All identifiable information will be removed from the final raw and summarized data prior to publication in compliance with the American Association for Public Opinion Research’s Code of Professional Ethics and Practices (AAPOR 2020). Paper copies of completed [surveys] will not be digitized until the study is completed and identifiable information has been redacted. Audio recordings of interviews will be permanently deleted after they have been transcribed and potentially identifiable information has been removed from the transcript.
+
+
+# Experimental Design
+
+[Insert text]
+
+
+# Sampling Methods
+
+[Insert text]
+
+
+# Sample Handling/Custody - General
+
+Data collected on paper will be labeled using a standardized format, including date and time of collection; responses will be manually entered into master spreadsheets. Data collected electronically (online [surveys]) will be stored in Qualtrics until the response window is closed; data will be directly exported to Excel and manually coded (as needed). Data collected during interviews will be recorded by Audacity or hand, depending upon interviewees’ consent to audio recording. Audio recordings will be transcribed using Deepgram AI. Dr. Simmons will be the only party with access to this identifiable information.
+
+
+# Expected Analyses
+
+Dr. Simmons will be responsible for all data analysis. Analyses are expected to include [Insert text]
+
+
+# Quality Control - ICR
+
+Data quality will be ensured by following the procedures outlined previously and in the data quality objectives addressed in Section [A7]. Data will be validated and reviewed by TBEP QA Officers following TBEP Quality Management Plan objectives (Sherwood et al. 2020) and Data Management Standard Operating Procedures (Beck et a. 2021).
+
+
+# Supplies
+
+Dr. Simmons will be responsible for procuring [surveys], writing utensils, and mail materials associated with the project.
+
+
+# Periodic Assessments
+
+Assessments will be conducted periodically during data collection and following each task by Dr. Simmons. These assessments will include an evaluation of [survey] participation rates and preliminary results. These assessments will serve to (1) verify data collection is proceeding as expected, (2) determine if participation rates warrant changes in data collection frequency or means, and (3) identify any missing or otherwise suspect data being collected. Missing data and other QA problems will be reported and appropriate corrective action will be determind by the project team. Any budget updates will be prepared by Dr. Simmons and delivered to TBEP Executive Director, Ed Sherwood, for review and approval.
+
+
+# Periodic Reports
+
+A report on the project status will be delivered at the completion of [Insert text]. The report will be prepared by Dr. Simmons and will summarize completed and pending tasks, preliminary results, and any issues identified during periodic assessments (with description of implications and any necessary adjustments, as appropriate).
+
+
+# Data Validation
+
+Data collected will be reviewed and anomalies will be noted and investigated to determine the reliability of the data. Responses to the [surveys] will undergo standard quality control procedures to identify and flag repeat, incomplete, and extreme responses, as well as instances of acquiescence and dissent bias
+
+
+# Data Validation Methods - QAPP
+
+All data will be validated and reviewed by TBEP QA Officers following TBEP Quality Management Plan objectives (Sherwood et al. 2020) and Data Management Standard Operating Procedures (Beck et al. 2021). Data validation will occur during the periodic assessments described in Section C1 to ensure that potential errors can be identified and evaluated with the field staff quickly and before moving on to the next task. Online [survey] data will be validated after the response window is closed by Qualtrics. Prior to de-identification, online responses will be screened by IP address to identify repeat responses. When repeat responses occur, only responses from the first submission will be recorded (if complete). Incomplete responses may still be included depending upon the question(s) that were answered truthfully. Responses exhibiting strong response bias will be considered unreliable and excluded from analysis as unreliable. In-person [survey] data will be similarly validated within 48 hours of completion. Transcriptions performed by Deepgram AI will be manually validated and edited as appropriate.
+
+
+# References
+
+[Insert text]
+
+
+
+
+
+
+# Technology
+
+Respondents will have the option of completing the questionnaires on paper (with return envelope provided) or online via a web link/QR code (administered through the survey software, Qualtrics). These response options allow respondents to select the means of responding in the way that is most convenient to them, thus minimizing the potential burden for participation.
+
+# Consultations
+
+This study has undergone internal consultation with TBEP staff, including pilot testing, to identify potential issues regarding content, clarity, structure, sensitivity, and burden. A Quality Assurance Project Plan (QAPP) for this study has been signed and approved by TBEP Project Manager/QA Officer, Dr. Blake Simmons, TBEP Project Data Officer, Dr. Marcus Beck, and TBEP Executive Director, Ed Sherwood, as well as US EPA Region 4 TBEP Technical Reviewer, Felicia Burks, and US EPA Region 4 Designated QAPP/DAO Approval Officer, Molly Martin (Appendix A). President of the Ecosphere Restoration Institute (ERI), Thomas Ries, has also been consulted on the study and questionnaire design to ensure the content is relevant to the concurrent TBERF living shoreline project. President of the DonCesar Property Owners Corporation, Betty Rzewnicki, has also reviewed the questionnaires and approved of their distribution to the homeowners within their HOA. 
+
+# Compensation
+
+No financial or other compensation will be provided to respondents.
+
+# Burden
+
+The total estimated hour burden for the 150 respondents over the entire project duration (2 years) is expected to be 95 hours. This includes an anticipated burden of 37.5 hours for data collection in Year 1, and 57.5 hours in Year 2. The table below shows the hour burden breakdown by year and data collection method. There is no reason to expect that respondents will provide data during working hours; thus there is no anticipated cost associated with the respondents’ hour burden based on equivalent hourly wages. 
+
+# Costs
+
+The total cost to the federal government for data collection over the duration of the project (2 years) is estimated to be $957.62. This includes an estimated $377.21 in Year 1 and $580.41 in Year 2. The breakdown of the cost estimate is shown in the table below.
+
+
+
+
+
