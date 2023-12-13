@@ -53,9 +53,9 @@ No special circumstances are involved in the collection of information.
 
 ~~~~~ A.10. Assurance of Confidentiality ~~~~~
 
-# Recordkeeping
-
 # Identifiable Information
+
+# Consent - ICR
 
 
 ~~~~~ A.11. Sensitive Questions ~~~~~
@@ -105,9 +105,6 @@ No exception is requested.
 # Experimental Design
 
 
-# Sampling Methods
-
-
 ~~~~~ B.2. Procedures for Collection of Information ~~~~~
 
 # Project Overview
@@ -124,12 +121,35 @@ No exception is requested.
 
 # Task 6
 
+# Outputs
+
+# Compliance
 
 
 ~~~~~ B.3. Data Reliability and Quality Control Methods ~~~~~
 
+# Sampling Methods
+
+# Quality Control - ICR
+
+# Data Validation Methods - ICR
+
+# Sample Handling/Custody - General
+
+# Periodic Assessments
+
+# Periodic Reports
+
 
 ~~~~~ B.4. Pilot Testing and Data Uses ~~~~~
+
+# Pilot testing
+
+# Recordkeeping
+
+# Storage - General
+
+All de-identified data will be stored at TBEP for a minimum of seven years. Final data products—including code, raw and summarized data (where appropriate)—will be accessible through a TBEP GitHub repository at https://github.com/tbep-tech or made available on additional public archive services (e.g., https://knb.ecoinformatics.org).
 
 
 ~~~~~ B.5. Consultants on Survey Design ~~~~~
@@ -138,4 +158,8 @@ All surveys and statistical analyses have been designed and will be carried out 
 
 Dr. Blake Simmons, Environmental Social Scientist, Tampa Bay Estuary Program, (727) 893-2765, bsimmons@tbep.org
 
+
+~~~~~ List of Appendices ~~~~~
+
+# Appendices
 
