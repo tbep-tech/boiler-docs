@@ -42,13 +42,6 @@ txt_replace <- function(textentry_pipeup, template_icr, icr_completed){
   # collapse to string
   template_icrout <- paste(names(template_icrls), template_icrls, sep = '', collapse = "\n")
   
-  # replace text if replace not null
-  if(!is.null(replace_sing))
-    template_icrout <- gsub('<<replace_sing>>', replace_sing, template_icrout)
-  # replace text if replace not null
-  if(!is.null(replace_plur))
-    template_icrout <- gsub('<<replace_plur>>', replace_plur, template_icrout)
-  
   writeLines(template_icrout, icr_completed)
   
   cat("New template_icr file saved to", icr_completed, "\n")
