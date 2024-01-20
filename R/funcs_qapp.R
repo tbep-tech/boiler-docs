@@ -42,13 +42,7 @@ txt_replace <- function(textentry_pipeup, template_qapp, qapp_completed){
   # collapse to string
   template_qappout <- paste(names(template_qappls), template_qappls, sep = '', collapse = "\n")
   
-  # replace text if replace not null
-  if(!is.null(replace_sing))
-    template_qappout <- gsub('<<replace_sing>>', replace_sing, template_qappout)
-  # replace text if replace not null
-  if(!is.null(replace_plur))
-    template_qappout <- gsub('<<replace_plur>>', replace_plur, template_qappout)
-  
+
   writeLines(template_qappout, qapp_completed)
   
   cat("New template_qapp file saved to", qapp_completed, "\n")
