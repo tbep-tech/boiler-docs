@@ -1,6 +1,6 @@
 # add text under custom headers in template_icr with text under custom headers in custom
 # save file as icr_completed
-txt_replace <- function(textentry, template_icr, icr_completed){
+txt_replace <- function(textentry_pipeup, template_icr, icr_completed){
   
   ##
   # textentry as list
