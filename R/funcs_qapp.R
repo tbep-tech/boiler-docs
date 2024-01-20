@@ -1,20 +1,20 @@
 # add text under custom headers in template_qapp with text under custom headers in custom
 # save file as qapp_completed
-txt_replace <- function(textentry, template_qapp, qapp_completed){
+txt_replace <- function(textentry_pipeup, template_qapp, qapp_completed){
   
   ##
   # textentry as list
   
-  textentrylns <- readLines(textentry, warn = F)
+  textentry_pipeuplns <- readLines(textentry_pipeup, warn = F)
 
-  textentryls <- list()
-  textentryhd <- NULL
+  textentry_pipeupls <- list()
+  textentry_pipeuphd <- NULL
   
-  for (line in textentrylns) {
+  for (line in textentry_pipeuplns) {
     if (startsWith(line, "#")) {
-      textentryhd <- line
-    } else if (!is.null(textentryhd)) {
-      textentryls[[textentryhd]] <- paste(textentryls[[textentryhd]], line, sep = "\n")
+      textentry_pipeuphd <- line
+    } else if (!is.null(textentry_pipeuphd)) {
+      textentry_pipeupls[[textentry_pipeuphd]] <- paste(textentry_pipeupls[[textentry_pipeuphd]], line, sep = "\n")
     }
   }
   
@@ -37,7 +37,7 @@ txt_replace <- function(textentry, template_qapp, qapp_completed){
   ##
   # replace template_qapp textentry with textentry and save
   
-  template_qappls[names(textentryls)] <- textentryls[names(textentryls)]
+  template_qappls[names(textentry_pipeupls)] <- textentry_pipeupls[names(textentry_pipeupls)]
   
   # collapse to string
   template_qappout <- paste(names(template_qappls), template_qappls, sep = '', collapse = "\n")

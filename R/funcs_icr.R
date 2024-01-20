@@ -5,16 +5,16 @@ txt_replace <- function(textentry, template_icr, icr_completed){
   ##
   # textentry as list
   
-  textentrylns <- readLines(textentry, warn = F)
+  textentry_pipeuplns <- readLines(textentry_pipeup, warn = F)
 
-  textentryls <- list()
-  textentryhd <- NULL
+  textentry_pipeupls <- list()
+  textentry_pipeuphd <- NULL
   
-  for (line in textentrylns) {
+  for (line in textentry_pipeuplns) {
     if (startsWith(line, "#")) {
-      textentryhd <- line
-    } else if (!is.null(textentryhd)) {
-      textentryls[[textentryhd]] <- paste(textentryls[[textentryhd]], line, sep = "\n")
+      textentry_pipeuphd <- line
+    } else if (!is.null(textentry_pipeuphd)) {
+      textentry_pipeupls[[textentry_pipeuphd]] <- paste(textentry_pipeupls[[textentry_pipeuphd]], line, sep = "\n")
     }
   }
   
@@ -37,7 +37,7 @@ txt_replace <- function(textentry, template_icr, icr_completed){
   ##
   # replace template_icr textentry with textentry and save
   
-  template_icrls[names(textentryls)] <- textentryls[names(textentryls)]
+  template_icrls[names(textentry_pipeupls)] <- textentry_pipeupls[names(textentry_pipeupls)]
   
   # collapse to string
   template_icrout <- paste(names(template_icrls), template_icrls, sep = '', collapse = "\n")
