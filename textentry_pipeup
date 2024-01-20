@@ -36,19 +36,6 @@ A primary goal of the Tampa Bay Estuary Program (TBEP) is to maintain seagrass a
 Evidence-based behavioral research is necessary for designing and implementing marketing campaigns that can effectively increase the number of homeowners voluntarily scheduling an inspection and subsequent repair (if needed) of their PSL. Current data suggests that participation in the Pinellas County PSL Rebate Program remains low, leaving an crucial financial resource largely untapped. Innovative solutions to promoting the Rebate Program, raising PSL and SSO awareness in the community, and triggering behavior change on the ground are required to significantly reduce the occurence of SSOs in the watershed and their subsequent effects on the health and resilience of Tampa Bay. 
 
 
-# Experimental Design
-
-
-
-# Technology
-
-Focus groups will be held in-person. Audio of conversations and participant responses will be recorded using Audacity Software and transcribed using Deepgram AI (with verification performed by Dr. Simmons). Analyses of campaign messaging effects will be based upon metrics tracked by Google Analytics on the Eligibility Screener website.
-
-
-# Sampling Methods
-
-
-
 # Task 1
 
 Task 1 will consist of three focus groups. Each focus group will consist of 6-8 residents (N = 18-24), which each focus group targeted toward residents within a specific neighborhood that qualifies for the Pinellas County PSL Rebate Program: Lealman, Seminole, and East Lake. To be included in the focus group, residents must meet the following criteria: (1) they own a home in the respective neighborhood, (2) they are between the ages of 25 to 60, and (3) they have not previously inspected or repaired their home's PSL. Efforts will be made to maximize the diversity of participants according to age, gender, and race. Translation services will also be available by request to residents whose primary language is Spanish or Vietnamese. Participants will be recruited through advertisements on social media, at key meeting places (e.g., community/family centers), and other points of contact (e.g. homeowner or neighborhood associations, local community leaders). The focus groups will take place in a public meeting location within the respective neighborhood, such as a public library, community center, or other meeting space to reduce travel burdens on participants. Each participant will be offered $60 in compensation for their time and any other travel-, work-, or care-related burdens that participation in the focus group may incur. Each focus group is anticipated to last between 60 to 90 minutes and will be held in the early evening on weekdays and/or in the early afternoon on weekends to account for work or school responsibilities. Prospective participants will be able to list their preferred time in their response to the advertisement.
@@ -120,14 +107,33 @@ The total estimated hour burden for the focus group participants is expected to 
 [INSERT TABLE HERE]
 
 
+# Experimental Design
+
+Postcard advertisements in Task 2 will be mailed to single-family homes within the neighborhoods eligible for the PSL Rebate Program. The postcards will contain different images and messages centered around the Rebate Program, with the same request for action: to visit the Eligibility Screener website to find out if their home is eligible for a rebate. Three types of postcard mail advertisements will be designed. The first postcard will serve as an experimental control; the postcard will feature images and messaging characteristic of the existing PSL Rebate Program website and aligned with materials typically published by Pinellas County. The second postcard will serve as an experimental treatment (Treatment A), in which the Rebate Program will be advertised using images and messages previously used in the preliminary Pipe Up campaign (2021). The third postcard will serve as an additional treatment (Treatment B) and will be designed to advertise the Rebate Program using new images and messages hypothesized to maximize the likelihood of homeowners visiting the Eligibility Screener website based upon focus group feedback (Task 1).
+
+Data on the behavior of interest - visiting the Eligibility Screener website - will be collected using standard Google Analytics (GA4) metrics. Three identical Eligibility Screener websites will be created as R Shiny Apps with different URLs corresponding to the Control, Treatment A, or Treatment B postcard. Across the three websites, the following data will be compared: (1) number of new users (primary response variable of interest), (2) number of eligibility screener clicks (secondary response variable of interest), (3) number of returning users, (4) number of clicks to the official PSL Rebate Program website, (5) number of eligibility screener submissions that are (and are not) likely eligible for the Rebate Program, (6) diversity of ZIP codes submitted in the eligibility screener form. Additional demographic data will be collected for each user via Google Signals within the GA4 platform (for users that are logged into an existing Google account with Ad Personalization enabled) as supplemental data.
+
+
+# Technology
+
+Focus groups will be held in-person. Audio of conversations and participant responses will be recorded using Audacity Software and transcribed using Deepgram AI (with verification performed by Dr. Simmons). Analyses of campaign messaging effects will be based upon metrics tracked by Google Analytics on the Eligibility Screener website.
+
+
+# Sampling Methods
+
+Each focus group will consist of 6-8 residents (N = 18-24), which each focus group targeted toward residents within a specific neighborhood that qualifies for the Pinellas County PSL Rebate Program: Lealman, Seminole, and East Lake. To be included in the focus group, residents must meet the following criteria: (1) they own a home in the respective neighborhood, (2) they are between the ages of 25 to 60, and (3) they have not previously inspected or repaired their home's PSL. Efforts will be made to maximize the diversity of participants according to age, gender, and race. Participants will be recruited through advertisements on social media, at key meeting places (e.g., community/family centers), and other points of contact (e.g. homeowner or neighborhood associations, local community leaders). 
+
+Approximately 55,000 single-family homes are within the eligible neighborhood zones of the PSL Rebate Program. Using stratified random sampling, each postcard will be mailed to 2,001 homes, with an equal number of each postcard (n = 667) mailed to homes in the three primary neighborhoods (Lealman, Seminole, and East Lake). This approach ensures that the effects of confounding factors on any observed differences in homeowner engagement between and within neighborhoods will be minimized, such as geospatial, socioeconomic, or cultural differences between neighborhoods. In total, this represents 6,003 homes (11%) within the program eligibility area. Assuming a low engagement rate of 5-10%, this equates to an estimated total sample size of 300-600 homeowners for subsequent analyses, providing sufficient statistical power for comparisons between the three response groups (Control, Treatment A, and Treatment B) while minimizing the population exposed to potentially ineffective campaign messages.
+
+
 # Expected Results/Novelty
 
-The Tampa Bay Estuary Program (TBEP) will conduct a study investigating
+The Tampa Bay Estuary Program (TBEP) will conduct a study investigating the effectiveness of different PSL messages on website engagement rates, which will inform the design of a new social marketing campaign promoting voluntary homeowner inspection and subsequent repair (if needed) of PSLs using the new Pinellas County PSL Rebate Program as a financial incentive. Such a study has never been experimentally tested in Tampa Bay and represents an important knowledge gap in our understanding of homeowners' decision-making regarding their PSLs. We expect that advertising messages explicitly designed based on focus group feedback in Task 1 (Treatment B) will be more effective at increasing website engagement rates than traditional messages provided by Pinellas County (Control) and prior Pipe Up campaign messages designed before the launch of the PSL Rebate Program (Treatment A). Based upon the results of this study, a new Pipe Up social marketing campaign will be launched by the TBEP and evaluated over time to determine the effectiveness of the campaign at larger scales.
 
 
 # Expected Analyses
 
-Dr. Simmons will be responsible for all data analysis. Analyses are expected to include
+Dr. Simmons will be responsible for all data analysis. Qualitative analyses will be performed on focus group transcript data (Task 1), including the identification of key themes, comparative evaluation of different images and messages, and priority recommendations for campaign marketing materials. Results from Task 2 will be analyzed to compare the response variables between the control and treatment websites and test the hypothesis that Treatment B postcards will result in significantly more new users and eligibility screener click rates than the Control and Treatment A postcards. Analyses are expected to include chi-squared tests of the following website engagement metrics: (1) number of new users, (2) number of eligibility screener clicks, (3) number of returning users, (4) number of clicks to the official PSL Rebate Program website, (5) number of eligibility screener submissions that are (and are not) likely eligible for the Rebate Program, (6) frequency of different ZIP codes submitted in the eligibility screener form.  
 
 
 # Outputs
