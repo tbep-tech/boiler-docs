@@ -11,7 +11,7 @@ txt_replace <- function(textentry_pipeup, template_qapp, qapp_completed){
   textentry_pipeuphd <- NULL
   
   for (line in textentry_pipeuplns) {
-    if (startsWith(line, "#")) {
+    if (grepl("^#|^~", line)) {
       textentry_pipeuphd <- line
     } else if (!is.null(textentry_pipeuphd)) {
       textentry_pipeupls[[textentry_pipeuphd]] <- paste(textentry_pipeupls[[textentry_pipeuphd]], line, sep = "\n")
@@ -27,12 +27,17 @@ txt_replace <- function(textentry_pipeup, template_qapp, qapp_completed){
   template_qapphd <- NULL
   
   for (line in template_qapplns) {
-    if (startsWith(line, "#")) {
+    if (grepl("^#|^~", line)) {
       template_qapphd <- line
     } else if (!is.null(template_qapphd)) {
       template_qappls[[template_qapphd]] <- paste(template_qappls[[template_qapphd]], line, sep = "\n")
     }
   }
+  
+  ## 
+  # subset textentry_pipeupls to only custom headers in template_qappls
+  
+  textentry_pipeupls <- textentry_pipeupls[names(textentry_pipeupls) %in% names(template_qappls)]
   
   ##
   # replace template_qapp textentry with textentry and save
